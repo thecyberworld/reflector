@@ -1,3 +1,0 @@
-http://testasp.vulnweb.com/Search.asp?tfSearch=test123
-http://testphp.vulnweb.com/search.php?test=query2
-http://testphp.vulnweb.com/search.php?test=query
