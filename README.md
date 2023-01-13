@@ -6,7 +6,7 @@ Reflector is a tool to check for reflected query parameter values.
 Reflector is a command line tool that takes a single argument, which is the name of a file containing a list of URLs to check. The file should contain one URL per line.
 
 ```shell
-refltetor urls.txt
+reflector urls.txt
 ```
 
 #### Output
